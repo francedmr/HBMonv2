@@ -14,7 +14,7 @@ HBmonitor tested on Debian v9 and v10
 This is version HBMonitor V2 
 
     cd /opt
-    git clone https://github.com/sp2ong/HBMonv2.git
+    git clone https://github.com/francedmr/HBMonv2.git
     cd HBMonv2
     chmod +x install.sh
     ./install.sh
